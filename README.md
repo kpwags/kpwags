@@ -6,7 +6,7 @@ I just Released...
 
 #### [Where Do You Want to Eat 2](https://github.com/kpwags/Where-Do-You-Want-To-Eat-2)
 
-This is a little whimsical app that helps you choose where to eat. Enter some restaurants, tag them, and let the app tell you where you're getting your next meal. You can see it in action at [https://www.wheredoyouwanttoeat.xyz](https://www.wheredoyouwanttoeat.xyz)
+This is a little whimsical app that helps you choose where to eat. Enter some restaurants, tag them, and let the app tell you where you're getting your next meal. It is built using ASP.NET Core MVC and Entity Framework Core. It also uses Bootstrap for the UI. You can see it in action at [https://www.wheredoyouwanttoeat.xyz](https://www.wheredoyouwanttoeat.xyz)
 
 ---
 
