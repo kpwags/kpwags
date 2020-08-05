@@ -1,6 +1,6 @@
 ### Hi there 
 
-I'm a 30-something full stack developer living just outside Philadelphia, PA. I've spent my career so far heavy in the .NET stack, but have dabbled in PHP & Ruby on Rails. I'm also getting more comfortable with Node.js & React.
+I'm a 30-something full stack developer living just outside Philadelphia, PA. I've spent my career so far heavy in the .NET stack and Javascript, but have dabbled in PHP, Ruby on Rails, & Node.js. I'm also getting more comfortable with Node.js & React.
 
 I just Released...
 
