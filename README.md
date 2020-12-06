@@ -14,11 +14,11 @@ I'm currently working on two projects...
 
 #### [Digital Family Cookbook](https://github.com/kpwags/digitalfamilycookbook)
 
-This is currently a work in progress. The finished product will be a content management system for families to keep and share their recipes. This has been a learning project for me to teach myself React, Node.js & GraphQL. I also use Next.js & Apollo GraphQL.
+This is currently a work in progress. The finished product will be a content management system for families to keep and share their recipes. This has been a learning project for me to teach myself React, Node.js & GraphQL. I also use Next.js & Apollo GraphQL. I just need to build out the homepage & documentation before I can release the first version.
 
-#### [WagsReader](https://github.com/kpwags/WagsReader)
+#### Unnamed Project (Fitness Tracker)
 
-This is also in the very early phases of development. It's meant to help get more comfortable with building mobile apps using Xamarin. I'm also working with the .NET Core Web API with this project.
+This is also in the very early phases of development. Earlier in the year, I wrote a [blog post on how I track my fitness journey](https://kpwags.com/2020/01/21/tracking-my-fitness-journey.html). I decided to start working on a web app to do it for me to move away from some of my Excel Spreadsheets. I'm building it using .NET Core & Microsoft SQL Server on the backend and React & TypeScript on the frontend. It's my first time using TypeScript and has been somewhat of a learning adjustment for me. I'm keeping the source private for the moment, but am considering live-streaming some of my development.
 
 ---
 
