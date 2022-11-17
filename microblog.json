@@ -1,10 +1,12 @@
 [
   {
+    "id": "c1fe2bb3-d6cc-4d92-87a6-bc251daf577a",
     "datePosted": "2022-11-16 18:51:00",
     "title": "Test Post 2",
     "content": "This is a test post"
   },
   {
+    "id": "cac3d806-cd01-4163-a982-42adeae46083",
     "datePosted": "2022-11-16 18:42:00",
     "title": "Test Post 2",
     "content": "This is a test post with a url https://kpwags.com/about included"
