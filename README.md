@@ -27,5 +27,5 @@ This is also in the very early phases of development. Earlier in the year, I wro
 You can find me on
 
 - [My Blog](https://kpwags.com)
-- [Twitter](https://twitter.com/kpwags)
+- [Mastodon](https://hachyderm.io/@kpwags)
 - [LinkedIn](https://www.linkedin.com/in/keithwagner/)
