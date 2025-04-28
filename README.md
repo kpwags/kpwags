@@ -1,6 +1,6 @@
 # Hi there 
 
-I'm a 30-something full stack developer living just outside Philadelphia, PA.
+I'm a 40-something full stack developer living just outside Philadelphia, PA.
 
 ## Current Work
 
@@ -20,4 +20,3 @@ You can find me on
 
 - [My Personal Site](https://kpwags.com)
 - [Mastodon](https://hachyderm.io/@kpwags)
-- [LinkedIn](https://www.linkedin.com/in/keithwagner/)
